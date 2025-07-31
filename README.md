@@ -4,29 +4,96 @@
   <meta charset="UTF-8">
   <title>Eduora | MBA + Job Program | Hiring Alert</title>
   <style>
-    body { font-family: sans-serif; margin:0; padding:0; color:#333; }
-    header { background:#0056b3; color:#fff; padding:20px; text-align:center; }
-    nav a { color:#fff; margin:0 10px; text-decoration:none; font-weight:bold;}
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      background-color: #fff;
+    }
+    header {
+      background: #0056b3;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
     .hero {
       background: url('https://images.unsplash.com/photo-1596495578065-bc1d7d388469?auto=format&fit=crop&w=1400&q=80') no-repeat center center/cover;
-      padding:80px 20px;
-      text-align:center;
-      color:#fff;
+      padding: 80px 20px;
+      text-align: center;
+      color: #fff;
     }
-    .hero h1 { margin-bottom:10px; font-size:2em; }
-    .section { padding:30px 20px; max-width:900px; margin:0 auto;}
-    .section img { max-width:100%; margin:20px 0; border-radius:8px; }
-    .roles ul { list-style:none; padding:0;}
-    .roles li { margin-bottom:10px;}
-    .info table { width:100%; border-collapse:collapse; display: none; } /* Hidden salary table */
-    .info th, .info td { border:1px solid #ccc; padding:8px; text-align:left;}
-    footer { background:#f2f2f2; padding:20px; text-align:center; font-size:0.9em;}
-    .apply { margin-top:20px; text-align:center;}
-    .apply a { background:#0056b3; color:#fff; padding:12px 20px; text-decoration:none; border-radius:4px;}
-    .logo { display:block; margin:0 auto 10px; max-width:150px; }
-    ul li::before { content: "✅ "; color:green; }
-    .highlight-section { background:#f9f9f9; padding:40px 20px; }
-    .highlight-section h2 { text-align:center; margin-bottom:20px; }
+    .hero h1 {
+      margin-bottom: 10px;
+      font-size: 2em;
+    }
+    .section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .section img {
+      max-width: 100%;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+    .roles ul {
+      list-style: none;
+      padding: 0;
+    }
+    .roles li {
+      margin-bottom: 10px;
+    }
+    .info table {
+      width: 100%;
+      border-collapse: collapse;
+      display: none;
+    }
+    .info th, .info td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    footer {
+      background: #f2f2f2;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9em;
+    }
+    .apply {
+      margin-top: 20px;
+      text-align: center;
+    }
+    .apply a {
+      background: #0056b3;
+      color: #fff;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    .logo {
+      display: block;
+      margin: 0 auto 10px;
+      max-width: 150px;
+    }
+    ul li::before {
+      content: "✅ ";
+      color: green;
+    }
+    .highlight-section {
+      background: #f9f9f9;
+      padding: 40px 20px;
+    }
+    .highlight-section h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
@@ -48,11 +115,11 @@
 
 <section id="about" class="section">
   <h2>About Our Program</h2>
-  <img src="https://images.unsplash.com/photo-1581090700227-1e8b3b271d9d?auto=format&fit=crop&w=1000&q=80" alt="Students Learning Online">
+  <img src="WhatsApp Image 2025-07-30 at 23.41.14_7f854e3b.jpg" alt="Eduora UG PG Banner">
   <p><strong>India’s 1st MBA + JOB Program</strong><br>
      Join Skillora & get:</p>
   <ul>
-    <li>Full‑time job + Online MBA from top UGC‑approved university (Manipal)</li>
+    <li>Full‑time job + Online MBA from top UGC‑approved universities (Manipal, Amity & more)</li>
     <li>₹0 upfront fee – only ₹500 enrollment at Manipal University’s official website</li>
     <li>Pay fees via salary‑based EMI</li>
     <li>Start earning from Day 1</li>
@@ -62,7 +129,6 @@
 
   <div class="info">
     <h3>Final Salary Based on OJT Performance</h3>
-    <!-- Salary Table Hidden as per request -->
     <p>🎯 Incentives up to ₹3 LPA<br>
        🚀 Fast-track promotion to Team Leader for top performers</p>
   </div>
@@ -90,33 +156,4 @@
 </section>
 
 <section id="open-roles" class="section">
-  <h2>Open Roles</h2>
-  <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=1000&q=80" alt="Sales Roles Image">
-  <div class="roles">
-    <ul>
-      <li>Business Development Associate (BDA)</li>
-      <li>Sr. Business Development Associate (Sr. BDA)</li>
-    </ul>
-  </div>
-
-  <p><strong>Who Can Apply?</strong></p>
-  <ul>
-    <li>Strong communication & sales skills</li>
-    <li>Fresher / Experienced welcome</li>
-    <li>Ambitious, target‑driven mindset</li>
-  </ul>
-</section>
-
-<section id="apply" class="section apply">
-  <h2>Apply Now</h2>
-  <p>Send your resume to:</p>
-  <p><a href="mailto:rakulkumari9875@gmail.com">rakulkumari9875@gmail.com</a><br>or call/WhatsApp: <strong>9335329669</strong></p>
-  <a href="mailto:rakulkumari9875@gmail.com">Apply for MBA + Job Program</a>
-</section>
-
-<footer>
-  <p>© 2025 Eduora Pvt. Ltd. All rights reserved. | Powered by Skillora MBA + Job Initiative</p>
-</footer>
-
-</body>
-</html>
+  <h2>Open Rol
