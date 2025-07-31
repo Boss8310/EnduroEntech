@@ -120,3 +120,8 @@
 
 </body>
 </html>
+<section class="section" style="text-align:center;">
+  <img src="your-image-path/WhatsApp Image 2025-07-30 at 23.41.14_7f854e3b.jpg" 
+       alt="UG & PG With Job - Eduora Banner" 
+       style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
+</section>
