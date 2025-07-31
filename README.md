@@ -142,7 +142,7 @@
 
 <section id="about" class="section">
   <h2>About Our Program</h2>
-  <img src="banner-edtech.jpg" alt="UG & PG With Job - Eduora">
+  <img src="images/banner-edtech.jpg" alt="UG & PG With Job - Eduora">
   <p><strong>India’s 1st MBA + JOB Program</strong><br> Join Skillora & get:</p>
   <ul>
     <li>Full-time job + Online MBA from top UGC‑approved university (Manipal)</li>
