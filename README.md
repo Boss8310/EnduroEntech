@@ -7,9 +7,15 @@
     body { font-family: sans-serif; margin:0; padding:0; color:#333; }
     header { background:#0056b3; color:#fff; padding:20px; text-align:center; }
     nav a { color:#fff; margin:0 10px; text-decoration:none; font-weight:bold;}
-    .hero { background:#e9f1fc; padding:40px; text-align:center;}
-    .hero h1 { margin-bottom:10px;}
-    .section { padding:30px 20px; max-width:800px; margin:0 auto;}
+    .hero {
+      background: url('https://images.unsplash.com/photo-1596495578065-bc1d7d388469?auto=format&fit=crop&w=1400&q=80') no-repeat center center/cover;
+      padding:80px 20px;
+      text-align:center;
+      color:#fff;
+    }
+    .hero h1 { margin-bottom:10px; font-size:2em; }
+    .section { padding:30px 20px; max-width:900px; margin:0 auto;}
+    .section img { max-width:100%; margin:20px 0; border-radius:8px; }
     .roles ul { list-style:none; padding:0;}
     .roles li { margin-bottom:10px;}
     .info table { width:100%; border-collapse:collapse;}
@@ -18,12 +24,12 @@
     .apply { margin-top:20px; text-align:center;}
     .apply a { background:#0056b3; color:#fff; padding:12px 20px; text-decoration:none; border-radius:4px;}
     .logo { display:block; margin:0 auto 10px; max-width:150px; }
+    ul li::before { content: "✅ "; color:green; }
   </style>
 </head>
 <body>
 
 <header>
-  <!-- ✅ LOGO IMAGE ADDED HERE -->
   <img src="logo.png" alt="Enduro Entech Logo" class="logo">
   <h1>Enduro Entech</h1>
   <nav>
@@ -40,6 +46,7 @@
 
 <section id="about" class="section">
   <h2>About Our Program</h2>
+  <img src="https://images.unsplash.com/photo-1581090700227-1e8b3b271d9d?auto=format&fit=crop&w=1000&q=80" alt="Students Learning Online">
   <p><strong>India’s 1st MBA + JOB Program</strong><br>
      Join Skillora & get:</p>
   <ul>
@@ -61,11 +68,12 @@
         <tr><td>5+ Sales</td><td>₹5 LPA</td></tr>
       </tbody>
     </table>
-    <p>Additional Incentives: Up to ₹3 LPA<br>
-       Fast‑track promotion to Team Leader for top performers</p>
+    <p>🎯 Incentives: Up to ₹3 LPA<br>
+       🚀 Fast-track promotion to Team Leader</p>
   </div>
 
   <h3>Why Join?</h3>
+  <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1000&q=80" alt="Remote Team Work">
   <ul>
     <li>Work‑from‑home convenience</li>
     <li>Job + MBA = Learn, Earn, Grow</li>
@@ -76,6 +84,7 @@
 
 <section id="open-roles" class="section">
   <h2>Open Roles</h2>
+  <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=1000&q=80" alt="Sales Roles Image">
   <div class="roles">
     <ul>
       <li>Business Development Associate (BDA)</li>
@@ -94,7 +103,7 @@
 <section id="apply" class="section apply">
   <h2>Apply Now</h2>
   <p>Send your resume to:</p>
-  <p><a href="mailto:rakulkumari9875@gmail.com">rakulkumari9875@gmail.com</a> or call/WhatsApp at 9335329669</p>
+  <p><a href="mailto:rakulkumari9875@gmail.com">rakulkumari9875@gmail.com</a><br>or call/WhatsApp: <strong>9335329669</strong></p>
   <a href="mailto:rakulkumari9875@gmail.com">Apply for MBA + Job Program</a>
 </section>
 
@@ -104,3 +113,4 @@
 
 </body>
 </html>
+
